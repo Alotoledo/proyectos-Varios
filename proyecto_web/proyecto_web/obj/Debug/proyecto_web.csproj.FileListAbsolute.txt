@@ -1,0 +1,10 @@
+C:\Users\Toled\source\repos\proyecto_web\proyecto_web\bin\Debug\proyecto_web.exe.config
+C:\Users\Toled\source\repos\proyecto_web\proyecto_web\bin\Debug\proyecto_web.exe
+C:\Users\Toled\source\repos\proyecto_web\proyecto_web\bin\Debug\proyecto_web.pdb
+C:\Users\Toled\source\repos\proyecto_web\proyecto_web\obj\Debug\proyecto_web.csprojAssemblyReference.cache
+C:\Users\Toled\source\repos\proyecto_web\proyecto_web\obj\Debug\proyecto_web.Form1.resources
+C:\Users\Toled\source\repos\proyecto_web\proyecto_web\obj\Debug\proyecto_web.Properties.Resources.resources
+C:\Users\Toled\source\repos\proyecto_web\proyecto_web\obj\Debug\proyecto_web.csproj.GenerateResource.cache
+C:\Users\Toled\source\repos\proyecto_web\proyecto_web\obj\Debug\proyecto_web.csproj.CoreCompileInputs.cache
+C:\Users\Toled\source\repos\proyecto_web\proyecto_web\obj\Debug\proyecto_web.exe
+C:\Users\Toled\source\repos\proyecto_web\proyecto_web\obj\Debug\proyecto_web.pdb
