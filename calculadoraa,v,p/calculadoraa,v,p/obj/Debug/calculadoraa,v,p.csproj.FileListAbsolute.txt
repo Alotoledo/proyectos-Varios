@@ -1,0 +1,7 @@
+C:\Users\Toled\source\repos\calculadoraa,v,p\calculadoraa,v,p\bin\Debug\calculadoraa,v,p.exe.config
+C:\Users\Toled\source\repos\calculadoraa,v,p\calculadoraa,v,p\bin\Debug\calculadoraa,v,p.exe
+C:\Users\Toled\source\repos\calculadoraa,v,p\calculadoraa,v,p\bin\Debug\calculadoraa,v,p.pdb
+C:\Users\Toled\source\repos\calculadoraa,v,p\calculadoraa,v,p\obj\Debug\calculadoraa,v,p.csprojAssemblyReference.cache
+C:\Users\Toled\source\repos\calculadoraa,v,p\calculadoraa,v,p\obj\Debug\calculadoraa,v,p.csproj.CoreCompileInputs.cache
+C:\Users\Toled\source\repos\calculadoraa,v,p\calculadoraa,v,p\obj\Debug\calculadoraa,v,p.exe
+C:\Users\Toled\source\repos\calculadoraa,v,p\calculadoraa,v,p\obj\Debug\calculadoraa,v,p.pdb
